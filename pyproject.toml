@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Awesome ModelContextProtocol resources - A curated list of MCP resources"
 requires-python = ">=3.10"
 # guard against empty input
+# clarify the control flow
