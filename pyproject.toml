@@ -5,3 +5,4 @@ description = "Awesome ModelContextProtocol resources - A curated list of MCP re
 requires-python = ">=3.10"
 # guard against empty input
 # clarify the control flow
+# avoid re-reading the config on every call
